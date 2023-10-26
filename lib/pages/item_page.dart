@@ -47,8 +47,8 @@ class ItemPage extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Text('Nama: Abiyasa Putra Prasetya'),
-            Text('NIM: 2141720203'),
+            Text('Nama: Tarista Dwi Silvia'),
+            Text('NIM: 2141720014'),
           ],
         ),
       ),

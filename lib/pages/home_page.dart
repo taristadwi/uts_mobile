@@ -6,13 +6,13 @@ class HomePage extends StatelessWidget {
     Item(
         image: 'assets/gula.jpg',
         name: 'Sugar',
-        price: 5000,
+        price: 10000,
         stock: 20,
         rating: 7),
     Item(
         name: 'Salt',
         price: 2000,
-        image: 'assets/garam.jpg',
+        image: 'assets/garam.jpeg',
         stock: 10,
         rating: 8),
   ];
@@ -44,8 +44,8 @@ class HomePage extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Text('Nama: Abiyasa Putra Prasetya'),
-            Text('NIM: 2141720203'),
+            Text('Nama: Tarista Dwi Silvia'),
+            Text('NIM: 2141720014'),
           ],
         ),
       ),
